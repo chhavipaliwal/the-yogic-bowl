@@ -55,6 +55,7 @@ const MenuItemComponent = React.memo(({ item }: { item: MenuItem }) => {
     </div>
   );
 });
+MenuItemComponent.displayName = 'MenuItemComponent';
 
 export default function MenuComponent() {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
