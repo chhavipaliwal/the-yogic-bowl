@@ -35,10 +35,10 @@ export default function Footer() {
             Developed by{' '}
             <a
               className="underline"
-              href="https://divinely.dev"
+              href="https://chhavi.divinely.dev"
               target="_BLANK"
             >
-              Divinely Developer
+              Chhavi Paliwal
             </a>
           </p>
         </div>
